@@ -1,0 +1,1 @@
+# splunk-otel-go-with-k8s
